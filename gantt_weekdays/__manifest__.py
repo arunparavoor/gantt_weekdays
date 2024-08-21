@@ -17,7 +17,7 @@
         ],
     },
     'images': ['static/description/banner.gif'],
-    'license': 'AGPL-3',
+    'license': 'LGPL-3',
     'installable': True,
     'auto_install': False,
     'application': True,
