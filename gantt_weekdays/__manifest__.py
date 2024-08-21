@@ -4,6 +4,7 @@
     'version': '17.0.0.0.0',
     'category': 'Services',
     'description': '''Gantt View with Weekdays and Weekend highlighted for Month and Week Selection''',
+    'author':'Arun Reghu Kumar',
     'company': 'Tech4Logic',
     'website': 'https://tech4logic.wordpress.com/',
     "depends": ['base', 'web_gantt'],
